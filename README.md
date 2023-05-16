@@ -8,6 +8,9 @@
 7. Define a new DataFrame that contains your information such as client ID (choose 11), first name, last name, and annual salary.
 8. Add this new dataframe to the original dataframe 'bank_df_all'.
 
+
+
+
 bank_df_1 = pd.DataFrame({ 'Bank Client ID':[1, 2, 3, 4, 5],
                         'Bank Client FirstName':['Phil', 'Claire', 'Haley', 'Alex', 'Luke'],
                         'Bank Client LastName': ['Dunphy', 'Prichett', 'Bixby', 'Rose', 'Andrews']})
