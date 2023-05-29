@@ -6,5 +6,4 @@
 5. Merge client names and their newly added salary information using the 'Bank Client ID'
 6. Let's assume that you became a new client to the bank
 7. Define a new DataFrame that contains your information such as client ID (choose 11), first name, last name, and annual salary.
-8. Add this new dataframe to the original dataframe 'bank_df_all'.
 
